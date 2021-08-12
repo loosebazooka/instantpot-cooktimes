@@ -1,2 +1,2 @@
 # instantpot-cooktimes
-Cook times for various grains in an instant pot
+Cook times and water ratios for various grains in an instant pot
