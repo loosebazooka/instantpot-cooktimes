@@ -1,2 +1,10 @@
-# instantpot-cooktimes
-Cook times and water ratios for various grains in an instant pot
+# Instantpot Whole Grain Cooking Info
+Cook times and water ratios for various grains in an instant pot .
+
+All grains cooked at high pressure on manual pressure cook setting.
+
+| Grain | Grain:Water | Cook Time (minutes) |
+| ---- | ---: | ---: |
+| Red Rice    | 1:1.25 | 20 |
+| Wild Rice   | 1:2 | 30 |
+
