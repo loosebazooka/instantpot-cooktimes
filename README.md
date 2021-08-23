@@ -2,7 +2,8 @@
 Cook times and water ratios for various grains in an instant pot.
 
 All grains cooked at high pressure on manual pressure cook setting.
-Natural Release.
+
+Allow natural release of pressure -- do not open the valve.
 
 | Grain | Grain:Water | Cook Time (minutes) |
 | ---- | ---: | ---: |
