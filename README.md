@@ -1,7 +1,8 @@
 # Instantpot Whole Grain Cooking Info
-Cook times and water ratios for various grains in an instant pot .
+Cook times and water ratios for various grains in an instant pot.
 
-All grains cooked at high pressure on manual pressure cook setting. 
+All grains cooked at high pressure on manual pressure cook setting.
+Natural Release.
 
 | Grain | Grain:Water | Cook Time (minutes) |
 | ---- | ---: | ---: |
